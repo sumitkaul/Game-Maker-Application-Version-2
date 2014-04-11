@@ -1,0 +1,10 @@
+dist/
+.classpath
+log/*
+bin/*
+*.class
+.project
+team1.jar
+config/log4j.properties
+gameServer.log
+gameserverpid
